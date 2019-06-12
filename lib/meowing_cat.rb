@@ -1,2 +1,5 @@
 class Cat 
-  attr_accessor ## code your solution here. 
+  attr_accessor :name 
+  
+  end
+  ## code your solution here. 
